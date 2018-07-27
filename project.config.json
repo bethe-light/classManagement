@@ -9,8 +9,8 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touritappid",
-	"projectname": "classmanagement",
+	"appid": "wxfb2e2d7d6a54bcbd",
+	"projectname": "class_management",
 	"condition": {
 		"search": {
 			"current": -1,
